@@ -34,8 +34,8 @@ Check out my pinned repositories below — they include coursework and personal 
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
-- 📧 your-email@example.com
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/jaron-pirtle-183663229/))
+- 📧 jpirt60@gmail.com
 
 ---
 
